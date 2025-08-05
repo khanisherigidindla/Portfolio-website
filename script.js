@@ -104,10 +104,16 @@ function setupMobileMenu() {
 function setupTypingAnimation() {
     const texts = [
         'Full Stack Developer',
-        'Frontend Specialist',
+        'Web Developer',
         'Backend Engineer',
         'React Developer',
-        'UI/UX Enthusiast'
+        'SQL Developer',
+        'JavaScript Lover',
+        'Problem Solver',
+        'Tech Enthusiast',
+        'Open Source Contributor',
+        'Software Engineer',
+        
     ];
     
     const typedTextElement = document.getElementById('typed-text');
